@@ -1,7 +1,7 @@
 # Chat with PDFs using ChatGPT and OpenAI GPT API
 
-This is a supplementary python notebook for the blog - https://nanonets.com/blog/p/ace48c12-e6c0-4a56-89fd-0c0c62298890/. 
-We dive into a detailed code tutorial on how to chat with all kinds of PDF files using OpenAI GPT API.
+This is a supplementary python notebook for the blog - https://nanonets.com/blog/chat-with-pdfs-using-chatgpt-and-openai-gpt-api/. 
+We dive into a detailed code tutorial on how to chat with all kinds of PDF files using OpenAI GPT API and use it for PDF automations / chatbots.
 
 * We will chat with PDFs using just a few lines of Python code.
 * We will chat with large PDF files using ChatGPT API and LangChain.
